@@ -1,0 +1,44 @@
+{
+    "spillhistorie": [
+        {
+            "tittel": "Første spillkonsoll",
+            "tekst": "Den første kommersielt vellykkede spillkonsollen var Magnavox Odyssey, utgitt i 1972."
+        },
+        {
+            "tittel": "Marios oppkomst",
+            "tekst": "Super Mario Bros. ble utgitt i 1985 og ble en kulturell fenomen, som hjalp til med å gjenopplive den kriserammede videospillindustrien."
+        },
+        {
+            "tittel": "Grafikkens utvikling",
+            "tekst": "Overgangen fra 2D til 3D-grafikk i spill ble markert av utgivelsen av spill som Wolfenstein 3D og Doom på begynnelsen av 1990-tallet."
+        }
+    ],
+    "populære_spill": [
+        {
+            "tittel": "Bestselgende spillserie",
+            "tekst": "Den bestselgende spillserien gjennom tidene er Mario, med over 700 millioner solgte eksemplarer på tvers av forskjellige titler."
+        },
+        {
+            "tittel": "Pokémons kulturelle innflytelse",
+            "tekst": "Pokémon Red og Blue ble utgitt i 1996 og utløste en global bevegelse som fortsetter den dag i dag, med mange spill, filmer og merchandise."
+        },
+        {
+            "tittel": "Grand Theft Autos dominans",
+            "tekst": "Grand Theft Auto V, utgitt i 2013, har blitt en av de mestselgende og mest kritikerroste videospillene gjennom tidene."
+        }
+    ],
+    "spilltrivia": [
+        {
+            "tittel": "Påskeegg i spill",
+            "tekst": "Mange videospill har skjulte påskeegg, som den beryktede 'Konami-koden' som oppstod i spillet Contra."
+        },
+        {
+            "tittel": "Pac-Mans opprinnelse",
+            "tekst": "Pac-Man het opprinnelig 'Puck-Man' i Japan, men ble endret for den internasjonale utgivelsen for å unngå potensiell hærverk av arkadekabinetter."
+        },
+        {
+            "tittel": "The Legend of Zeldas innflytelse",
+            "tekst": "The Legend of Zelda-serien har hatt en betydelig innflytelse på spillindustrien, ved å popularisere ikke-lineært gameplay og utforskning."
+        }
+    ]
+}
